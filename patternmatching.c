@@ -18,7 +18,7 @@ void main(){
                 break;
             }
         }
-        if(L == R){ 
+        if(L == R){ // P found in T
             INDEX = K;
             break;
         }
