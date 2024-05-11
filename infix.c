@@ -26,10 +26,10 @@ int priority(char x) {
 }
 
 int main() {
-    char exp[100]; // Fix the array declaration
+    char exp[100]; 
     char *e, x;
     printf("Enter the Expression: ");
-    scanf("%s", exp); // Fix the input reading
+    scanf("%s", exp); 
 
     printf("\n");
     e = exp;
